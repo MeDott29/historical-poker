@@ -1,4 +1,4 @@
-[poker game audio generated with this code](audio/poker_game.wav)
+[poker game audio generated with this code](poker_game_audio.wav)
 audio generated with
 ```
 python main.py
