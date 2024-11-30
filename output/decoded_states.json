@@ -1,0 +1,102 @@
+[
+  {
+    "action": "fold",
+    "amount": 2,
+    "decoded_frequency": 350.0
+  },
+  {
+    "action": "bet",
+    "amount": 22,
+    "decoded_frequency": 450.0
+  },
+  {
+    "action": "call",
+    "amount": 0,
+    "decoded_frequency": 554.0
+  },
+  {
+    "action": "raise",
+    "amount": 16,
+    "decoded_frequency": 670.0
+  },
+  {
+    "action": "raise",
+    "amount": 13,
+    "decoded_frequency": 668.0
+  },
+  {
+    "action": "call",
+    "amount": 0,
+    "decoded_frequency": 554.0
+  },
+  {
+    "action": "call",
+    "amount": 0,
+    "decoded_frequency": 554.0
+  },
+  {
+    "action": "fold",
+    "amount": 2,
+    "decoded_frequency": 350.0
+  },
+  {
+    "action": "raise",
+    "amount": 22,
+    "decoded_frequency": 674.0
+  },
+  {
+    "action": "call",
+    "amount": 0,
+    "decoded_frequency": 554.0
+  },
+  {
+    "action": "fold",
+    "amount": 2,
+    "decoded_frequency": 350.0
+  },
+  {
+    "action": "raise",
+    "amount": 86,
+    "decoded_frequency": 716.0
+  },
+  {
+    "action": "call",
+    "amount": 0,
+    "decoded_frequency": 554.0
+  },
+  {
+    "action": "call",
+    "amount": 0,
+    "decoded_frequency": 554.0
+  },
+  {
+    "action": "call",
+    "amount": 0,
+    "decoded_frequency": 554.0
+  },
+  {
+    "action": "bet",
+    "amount": 86,
+    "decoded_frequency": 478.0
+  },
+  {
+    "action": "call",
+    "amount": 0,
+    "decoded_frequency": 554.0
+  },
+  {
+    "action": "raise",
+    "amount": 37,
+    "decoded_frequency": 684.0
+  },
+  {
+    "action": "call",
+    "amount": 0,
+    "decoded_frequency": 554.0
+  },
+  {
+    "action": "call",
+    "amount": 0,
+    "decoded_frequency": 554.0
+  }
+]

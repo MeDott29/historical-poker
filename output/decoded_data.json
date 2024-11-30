@@ -1,0 +1,502 @@
+[
+  {
+    "player_position": [
+      0.13476663997261695,
+      0.7885863235274343
+    ],
+    "score": 62,
+    "health": 93,
+    "event": "collision",
+    "timestamp": 1732932486.081321
+  },
+  {
+    "player_position": [
+      0.8480704467822876,
+      0.6935012614465463
+    ],
+    "score": 69,
+    "health": 15,
+    "event": "none",
+    "timestamp": 1732932488.2692063
+  },
+  {
+    "player_position": [
+      0.7374622631907379,
+      0.39016295997472183
+    ],
+    "score": 93,
+    "health": 99,
+    "event": "none",
+    "timestamp": 1732932489.4639509
+  },
+  {
+    "player_position": [
+      0.18843626083669895,
+      0.6180429930213999
+    ],
+    "score": 1,
+    "health": 26,
+    "event": "power_up",
+    "timestamp": 1732932490.5064287
+  },
+  {
+    "player_position": [
+      0.09426127659513195,
+      0.3396399751485245
+    ],
+    "score": 2,
+    "health": 77,
+    "event": "goal",
+    "timestamp": 1732932491.6262062
+  },
+  {
+    "player_position": [
+      0.7489624335668655,
+      0.9872798518725008
+    ],
+    "score": 24,
+    "health": 76,
+    "event": "goal",
+    "timestamp": 1732932492.690332
+  },
+  {
+    "player_position": [
+      0.18181763705308118,
+      0.5950489559159087
+    ],
+    "score": 45,
+    "health": 3,
+    "event": "goal",
+    "timestamp": 1732932493.739878
+  },
+  {
+    "player_position": [
+      0.8418973999901752,
+      0.1278867635963341
+    ],
+    "score": 55,
+    "health": 67,
+    "event": "goal",
+    "timestamp": 1732932494.776091
+  },
+  {
+    "player_position": [
+      0.9095248664516103,
+      0.7361863479482935
+    ],
+    "score": 23,
+    "health": 65,
+    "event": "power_up",
+    "timestamp": 1732932495.821459
+  },
+  {
+    "player_position": [
+      0.6775591983681003,
+      0.6014698863293558
+    ],
+    "score": 88,
+    "health": 96,
+    "event": "power_up",
+    "timestamp": 1732932496.9373777
+  },
+  {
+    "player_position": [
+      0.2167939980642486,
+      0.6892573567253838
+    ],
+    "score": 22,
+    "health": 50,
+    "event": "goal",
+    "timestamp": 1732932498.0999143
+  },
+  {
+    "player_position": [
+      0.7145570501682439,
+      0.4117276690154853
+    ],
+    "score": 53,
+    "health": 29,
+    "event": "power_up",
+    "timestamp": 1732932499.149933
+  },
+  {
+    "player_position": [
+      0.8529785768914794,
+      0.7769370651113113
+    ],
+    "score": 74,
+    "health": 55,
+    "event": "collision",
+    "timestamp": 1732932500.2193813
+  },
+  {
+    "player_position": [
+      0.7280543836995826,
+      0.2584642392948153
+    ],
+    "score": 55,
+    "health": 93,
+    "event": "power_up",
+    "timestamp": 1732932501.2581758
+  },
+  {
+    "player_position": [
+      0.4276099562736919,
+      0.21969234786885672
+    ],
+    "score": 39,
+    "health": 70,
+    "event": "collision",
+    "timestamp": 1732932502.3346698
+  },
+  {
+    "player_position": [
+      0.8901100644506021,
+      0.19342434091045357
+    ],
+    "score": 71,
+    "health": 63,
+    "event": "none",
+    "timestamp": 1732932503.388921
+  },
+  {
+    "player_position": [
+      0.9211557487869957,
+      0.35954037057501453
+    ],
+    "score": 29,
+    "health": 81,
+    "event": "power_up",
+    "timestamp": 1732932504.436092
+  },
+  {
+    "player_position": [
+      0.8092480136627331,
+      0.320545140771212
+    ],
+    "score": 51,
+    "health": 72,
+    "event": "collision",
+    "timestamp": 1732932505.5255547
+  },
+  {
+    "player_position": [
+      0.6033250609971055,
+      0.6235704180178332
+    ],
+    "score": 21,
+    "health": 59,
+    "event": "none",
+    "timestamp": 1732932506.639001
+  },
+  {
+    "player_position": [
+      0.3108478657847009,
+      0.1089212770920518
+    ],
+    "score": 91,
+    "health": 90,
+    "event": "power_up",
+    "timestamp": 1732932507.6719997
+  },
+  {
+    "player_position": [
+      0.44852710005059404,
+      0.643814527299484
+    ],
+    "score": 53,
+    "health": 39,
+    "event": "power_up",
+    "timestamp": 1732932508.7776418
+  },
+  {
+    "player_position": [
+      0.19442558775222285,
+      0.17573513288882958
+    ],
+    "score": 81,
+    "health": 19,
+    "event": "collision",
+    "timestamp": 1732932509.8720908
+  },
+  {
+    "player_position": [
+      0.39217985475803097,
+      0.3634445152114354
+    ],
+    "score": 55,
+    "health": 95,
+    "event": "none",
+    "timestamp": 1732932510.9909072
+  },
+  {
+    "player_position": [
+      0.12255138223631856,
+      0.8394687654060957
+    ],
+    "score": 7,
+    "health": 32,
+    "event": "power_up",
+    "timestamp": 1732932512.0034215
+  },
+  {
+    "player_position": [
+      0.4512498648502574,
+      0.6366380039376899
+    ],
+    "score": 8,
+    "health": 13,
+    "event": "goal",
+    "timestamp": 1732932513.0911932
+  },
+  {
+    "player_position": [
+      0.6104205128797279,
+      0.5116101083053116
+    ],
+    "score": 55,
+    "health": 94,
+    "event": "none",
+    "timestamp": 1732932514.1224902
+  },
+  {
+    "player_position": [
+      0.02296753565570142,
+      0.2524927753046684
+    ],
+    "score": 49,
+    "health": 40,
+    "event": "power_up",
+    "timestamp": 1732932515.192873
+  },
+  {
+    "player_position": [
+      0.9208907356861059,
+      0.4866292982955396
+    ],
+    "score": 49,
+    "health": 75,
+    "event": "collision",
+    "timestamp": 1732932516.2759635
+  },
+  {
+    "player_position": [
+      0.9956425462276475,
+      0.8275050219305917
+    ],
+    "score": 65,
+    "health": 41,
+    "event": "none",
+    "timestamp": 1732932517.3268812
+  },
+  {
+    "player_position": [
+      0.7218331753104573,
+      0.003459420373725486
+    ],
+    "score": 20,
+    "health": 39,
+    "event": "goal",
+    "timestamp": 1732932518.370752
+  },
+  {
+    "player_position": [
+      0.9645976080067824,
+      0.8306628805777764
+    ],
+    "score": 66,
+    "health": 61,
+    "event": "power_up",
+    "timestamp": 1732932519.396369
+  },
+  {
+    "player_position": [
+      0.5198822167982313,
+      0.21979220950694234
+    ],
+    "score": 75,
+    "health": 79,
+    "event": "none",
+    "timestamp": 1732932520.4746654
+  },
+  {
+    "player_position": [
+      0.21940317837456813,
+      0.5085053725315178
+    ],
+    "score": 82,
+    "health": 47,
+    "event": "goal",
+    "timestamp": 1732932521.501402
+  },
+  {
+    "player_position": [
+      0.9231033719609758,
+      0.3952331381161377
+    ],
+    "score": 76,
+    "health": 16,
+    "event": "power_up",
+    "timestamp": 1732932522.5592465
+  },
+  {
+    "player_position": [
+      0.17460523354816582,
+      0.879374655880898
+    ],
+    "score": 9,
+    "health": 72,
+    "event": "none",
+    "timestamp": 1732932523.7159598
+  },
+  {
+    "player_position": [
+      0.27832363529519144,
+      0.620813443460934
+    ],
+    "score": 50,
+    "health": 4,
+    "event": "none",
+    "timestamp": 1732932524.8582067
+  },
+  {
+    "player_position": [
+      0.9206832144494339,
+      0.5123958215907564
+    ],
+    "score": 89,
+    "health": 60,
+    "event": "collision",
+    "timestamp": 1732932525.9400606
+  },
+  {
+    "player_position": [
+      0.5113300884696189,
+      0.6403274500204803
+    ],
+    "score": 71,
+    "health": 45,
+    "event": "none",
+    "timestamp": 1732932527.0273974
+  },
+  {
+    "player_position": [
+      0.3522204625551244,
+      0.80806315937898
+    ],
+    "score": 14,
+    "health": 21,
+    "event": "power_up",
+    "timestamp": 1732932528.087886
+  },
+  {
+    "player_position": [
+      0.6634330699510275,
+      0.9172548094228239
+    ],
+    "score": 70,
+    "health": 33,
+    "event": "goal",
+    "timestamp": 1732932529.1340775
+  },
+  {
+    "player_position": [
+      0.23206298920503754,
+      0.561351975707908
+    ],
+    "score": 64,
+    "health": 73,
+    "event": "power_up",
+    "timestamp": 1732932530.2152889
+  },
+  {
+    "player_position": [
+      0.02388145234525929,
+      0.9892037793444596
+    ],
+    "score": 71,
+    "health": 12,
+    "event": "collision",
+    "timestamp": 1732932531.334989
+  },
+  {
+    "player_position": [
+      0.8373670063134131,
+      0.14004890886930155
+    ],
+    "score": 76,
+    "health": 35,
+    "event": "none",
+    "timestamp": 1732932532.3863068
+  },
+  {
+    "player_position": [
+      0.351584821346427,
+      0.3307974533269905
+    ],
+    "score": 60,
+    "health": 80,
+    "event": "none",
+    "timestamp": 1732932533.4519393
+  },
+  {
+    "player_position": [
+      0.7264808995702542,
+      0.8565691317289429
+    ],
+    "score": 2,
+    "health": 1,
+    "event": "power_up",
+    "timestamp": 1732932534.4901195
+  },
+  {
+    "player_position": [
+      0.9466413592250521,
+      0.126095490822295
+    ],
+    "score": 98,
+    "health": 15,
+    "event": "power_up",
+    "timestamp": 1732932535.5675538
+  },
+  {
+    "player_position": [
+      0.6114080492387366,
+      0.10226899065548556
+    ],
+    "score": 0,
+    "health": 65,
+    "event": "collision",
+    "timestamp": 1732932536.657293
+  },
+  {
+    "player_position": [
+      0.4118826059276641,
+      0.22643591586386658
+    ],
+    "score": 63,
+    "health": 27,
+    "event": "none",
+    "timestamp": 1732932537.7871997
+  },
+  {
+    "player_position": [
+      0.6894601272115782,
+      0.29107792106755204
+    ],
+    "score": 49,
+    "health": 40,
+    "event": "goal",
+    "timestamp": 1732932538.8318772
+  },
+  {
+    "player_position": [
+      0.5244003258079224,
+      0.9685304852572398
+    ],
+    "score": 99,
+    "health": 29,
+    "event": "power_up",
+    "timestamp": 1732932539.8693218
+  }
+]
