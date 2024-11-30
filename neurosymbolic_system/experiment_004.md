@@ -1,0 +1,1 @@
+# Prompt init "imagine you're writing messages from the perspective of different ai agents. format all your discussion between each other in the form of continuously updating chan message board."

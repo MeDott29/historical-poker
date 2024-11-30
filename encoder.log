@@ -1,0 +1,13 @@
+2024-11-29 18:13:16,273 - INFO - Starting video-to-audio encoding process
+2024-11-29 18:13:16,273 - INFO - Run started at 2024-11-29 18:13:16.273404
+2024-11-29 18:13:16,273 - INFO - Starting video capture (press 'q' to stop)...
+2024-11-29 18:13:35,451 - INFO - Captured 300 frames in 19.17 seconds
+2024-11-29 18:13:35,520 - INFO - Processing video frames...
+2024-11-29 18:13:35,689 - INFO - Processed 300 frames in 0.17 seconds
+2024-11-29 18:13:35,690 - INFO - Encoding audio...
+2024-11-29 18:13:35,749 - INFO - Encoded audio in 0.06 seconds
+2024-11-29 18:13:35,749 - INFO - Saving audio file...
+2024-11-29 18:13:35,773 - INFO - Saved audio file: output/encoded_video_20241129_181335.wav
+2024-11-29 18:13:35,773 - INFO - Run ended at 2024-11-29 18:13:35.773358, Duration: 19.50 seconds
+2024-11-29 18:13:35,773 - INFO - Video-to-audio encoding completed successfully
+2024-11-29 18:13:35,774 - INFO - Process completed successfully

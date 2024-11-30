@@ -1,0 +1,162 @@
+[
+  {
+    "batch": 0,
+    "processing_time": 18.945154676999664,
+    "encoder_metrics": {
+      "avg_encoding_time": 0,
+      "avg_decoding_time": 0,
+      "avg_audio_processing_time": 0,
+      "avg_visualization_time": 0,
+      "success_rate": 1.0,
+      "total_processed": 2,
+      "failed_operations": {
+        "encoding": 0,
+        "decoding": 0,
+        "audio": 0,
+        "visualization": 0
+      }
+    },
+    "decoder_metrics": {
+      "avg_encoding_time": 0,
+      "avg_decoding_time": 0,
+      "avg_audio_processing_time": 0,
+      "avg_visualization_time": 0,
+      "success_rate": 0.0,
+      "total_processed": 0,
+      "failed_operations": {
+        "encoding": 0,
+        "decoding": 0,
+        "audio": 0,
+        "visualization": 0
+      }
+    }
+  },
+  {
+    "batch": 1,
+    "processing_time": 18.896553315000347,
+    "encoder_metrics": {
+      "avg_encoding_time": 0,
+      "avg_decoding_time": 0,
+      "avg_audio_processing_time": 0,
+      "avg_visualization_time": 0,
+      "success_rate": 1.0,
+      "total_processed": 4,
+      "failed_operations": {
+        "encoding": 0,
+        "decoding": 0,
+        "audio": 0,
+        "visualization": 0
+      }
+    },
+    "decoder_metrics": {
+      "avg_encoding_time": 0,
+      "avg_decoding_time": 0,
+      "avg_audio_processing_time": 0,
+      "avg_visualization_time": 0,
+      "success_rate": 0.0,
+      "total_processed": 0,
+      "failed_operations": {
+        "encoding": 0,
+        "decoding": 0,
+        "audio": 0,
+        "visualization": 0
+      }
+    }
+  },
+  {
+    "batch": 2,
+    "processing_time": 18.898635015000764,
+    "encoder_metrics": {
+      "avg_encoding_time": 0,
+      "avg_decoding_time": 0,
+      "avg_audio_processing_time": 0,
+      "avg_visualization_time": 0,
+      "success_rate": 1.0,
+      "total_processed": 6,
+      "failed_operations": {
+        "encoding": 0,
+        "decoding": 0,
+        "audio": 0,
+        "visualization": 0
+      }
+    },
+    "decoder_metrics": {
+      "avg_encoding_time": 0,
+      "avg_decoding_time": 0,
+      "avg_audio_processing_time": 0,
+      "avg_visualization_time": 0,
+      "success_rate": 0.0,
+      "total_processed": 0,
+      "failed_operations": {
+        "encoding": 0,
+        "decoding": 0,
+        "audio": 0,
+        "visualization": 0
+      }
+    }
+  },
+  {
+    "batch": 3,
+    "processing_time": 18.899289282999234,
+    "encoder_metrics": {
+      "avg_encoding_time": 0,
+      "avg_decoding_time": 0,
+      "avg_audio_processing_time": 0,
+      "avg_visualization_time": 0,
+      "success_rate": 1.0,
+      "total_processed": 8,
+      "failed_operations": {
+        "encoding": 0,
+        "decoding": 0,
+        "audio": 0,
+        "visualization": 0
+      }
+    },
+    "decoder_metrics": {
+      "avg_encoding_time": 0,
+      "avg_decoding_time": 0,
+      "avg_audio_processing_time": 0,
+      "avg_visualization_time": 0,
+      "success_rate": 0.0,
+      "total_processed": 0,
+      "failed_operations": {
+        "encoding": 0,
+        "decoding": 0,
+        "audio": 0,
+        "visualization": 0
+      }
+    }
+  },
+  {
+    "batch": 4,
+    "processing_time": 18.89976504600054,
+    "encoder_metrics": {
+      "avg_encoding_time": 0,
+      "avg_decoding_time": 0,
+      "avg_audio_processing_time": 0,
+      "avg_visualization_time": 0,
+      "success_rate": 1.0,
+      "total_processed": 10,
+      "failed_operations": {
+        "encoding": 0,
+        "decoding": 0,
+        "audio": 0,
+        "visualization": 0
+      }
+    },
+    "decoder_metrics": {
+      "avg_encoding_time": 0,
+      "avg_decoding_time": 0,
+      "avg_audio_processing_time": 0,
+      "avg_visualization_time": 0,
+      "success_rate": 0.0,
+      "total_processed": 0,
+      "failed_operations": {
+        "encoding": 0,
+        "decoding": 0,
+        "audio": 0,
+        "visualization": 0
+      }
+    }
+  }
+]

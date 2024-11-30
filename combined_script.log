@@ -1,0 +1,163 @@
+2024-11-29 18:35:57,922 - INFO - Encoding player data to brightness values...
+2024-11-29 18:35:57,922 - INFO - Converted brightness values to frequencies
+2024-11-29 18:35:57,953 - INFO - Generated audio signal from frequencies
+2024-11-29 18:35:57,959 - INFO - Saved encoded audio to output/encoded_data.wav
+2024-11-29 18:35:57,959 - INFO - Decoding audio file...
+2024-11-29 18:35:57,959 - INFO - Starting decoding process for output/encoded_data.wav
+2024-11-29 18:35:57,960 - INFO - Loaded audio file: output/encoded_data.wav
+2024-11-29 18:35:57,977 - INFO - Extracted 188 frequency values
+2024-11-29 18:36:16,805 - INFO - Decoding completed successfully
+2024-11-29 18:36:16,806 - INFO - Successfully encoded and decoded data
+2024-11-29 18:47:03,771 - INFO - Encoding player data to brightness values...
+2024-11-29 18:47:03,771 - INFO - Converted brightness values to frequencies
+2024-11-29 18:47:03,799 - INFO - Generated audio signal from frequencies
+2024-11-29 18:47:03,808 - INFO - Saved encoded audio to output/encoded_data.wav
+2024-11-29 18:47:03,809 - INFO - Decoding audio file...
+2024-11-29 18:47:03,809 - INFO - Starting decoding process for output/encoded_data.wav
+2024-11-29 18:47:03,815 - INFO - Loaded audio file: output/encoded_data.wav
+2024-11-29 18:47:03,856 - INFO - Extracted 188 frequency values
+2024-11-29 18:47:22,709 - INFO - Decoding completed successfully
+2024-11-29 18:47:22,709 - INFO - Successfully encoded and decoded data
+2024-11-29 18:51:34,631 - INFO - Starting decoding process for output/encoded_data_2_players.wav
+2024-11-29 18:51:34,633 - INFO - Loaded audio file: output/encoded_data_2_players.wav
+2024-11-29 18:51:34,650 - INFO - Extracted 188 frequency values
+2024-11-29 18:51:53,505 - INFO - Decoding completed successfully
+2024-11-29 18:51:53,522 - INFO - Starting decoding process for output/encoded_data_4_players.wav
+2024-11-29 18:51:53,523 - INFO - Loaded audio file: output/encoded_data_4_players.wav
+2024-11-29 18:51:53,550 - INFO - Extracted 188 frequency values
+2024-11-29 18:52:12,412 - INFO - Decoding completed successfully
+2024-11-29 18:52:12,482 - INFO - Starting decoding process for output/encoded_data_different_stats.wav
+2024-11-29 18:52:12,488 - INFO - Loaded audio file: output/encoded_data_different_stats.wav
+2024-11-29 18:52:12,545 - INFO - Extracted 330 frequency values
+2024-11-29 18:52:45,614 - INFO - Decoding completed successfully
+2024-11-29 18:52:45,652 - INFO - Starting decoding process for output/encoded_data_22050_sample_rate.wav
+2024-11-29 18:52:45,654 - INFO - Loaded audio file: output/encoded_data_22050_sample_rate.wav
+2024-11-29 18:52:45,678 - INFO - Extracted 93 frequency values
+2024-11-29 18:52:55,005 - INFO - Decoding completed successfully
+2024-11-29 18:52:55,020 - INFO - Starting decoding process for output/encoded_data_48000_sample_rate.wav
+2024-11-29 18:52:55,021 - INFO - Loaded audio file: output/encoded_data_48000_sample_rate.wav
+2024-11-29 18:52:55,046 - INFO - Extracted 205 frequency values
+2024-11-29 18:53:15,604 - INFO - Decoding completed successfully
+2024-11-29 18:53:15,604 - ERROR - Error in main process: name 'simulator' is not defined
+Traceback (most recent call last):
+  File "/home/ath/Pictures/Data-Generation-and-Testing/nGPT-pytorch/historical-poker/three_main.py", line 305, in main
+    await test_different_fft_parameters()
+  File "/home/ath/Pictures/Data-Generation-and-Testing/nGPT-pytorch/historical-poker/three_main.py", line 252, in test_different_fft_parameters
+    players = await simulator.generate_player_pool(players_per_era=2)
+                    ^^^^^^^^^
+NameError: name 'simulator' is not defined
+2024-11-29 18:54:19,111 - INFO - Starting decoding process for output/encoded_data_2_players.wav
+2024-11-29 18:54:19,113 - INFO - Loaded audio file: output/encoded_data_2_players.wav
+2024-11-29 18:54:19,132 - INFO - Extracted 188 frequency values
+2024-11-29 18:54:38,005 - INFO - Decoding completed successfully
+2024-11-29 18:54:38,026 - INFO - Starting decoding process for output/encoded_data_4_players.wav
+2024-11-29 18:54:38,028 - INFO - Loaded audio file: output/encoded_data_4_players.wav
+2024-11-29 18:54:38,056 - INFO - Extracted 188 frequency values
+2024-11-29 18:54:56,904 - INFO - Decoding completed successfully
+2024-11-29 18:54:56,952 - INFO - Starting decoding process for output/encoded_data_different_stats.wav
+2024-11-29 18:54:56,954 - INFO - Loaded audio file: output/encoded_data_different_stats.wav
+2024-11-29 18:54:56,983 - INFO - Extracted 330 frequency values
+2024-11-29 18:55:30,010 - INFO - Decoding completed successfully
+2024-11-29 18:55:30,019 - INFO - Starting decoding process for output/encoded_data_22050_sample_rate.wav
+2024-11-29 18:55:30,019 - INFO - Loaded audio file: output/encoded_data_22050_sample_rate.wav
+2024-11-29 18:55:30,027 - INFO - Extracted 93 frequency values
+2024-11-29 18:55:39,407 - INFO - Decoding completed successfully
+2024-11-29 18:55:39,435 - INFO - Starting decoding process for output/encoded_data_48000_sample_rate.wav
+2024-11-29 18:55:39,436 - INFO - Loaded audio file: output/encoded_data_48000_sample_rate.wav
+2024-11-29 18:55:39,466 - INFO - Extracted 205 frequency values
+2024-11-29 18:55:59,806 - INFO - Decoding completed successfully
+2024-11-29 18:55:59,837 - INFO - Starting decoding process for output/encoded_data_custom_fft_params.wav
+2024-11-29 18:55:59,841 - INFO - Loaded audio file: output/encoded_data_custom_fft_params.wav
+2024-11-29 18:55:59,894 - INFO - Extracted 377 frequency values
+2024-11-29 18:56:37,605 - INFO - Decoding completed successfully
+2024-11-29 18:56:37,605 - ERROR - Error in main process: name 'simulator' is not defined
+Traceback (most recent call last):
+  File "/home/ath/Pictures/Data-Generation-and-Testing/nGPT-pytorch/historical-poker/three_main.py", line 307, in main
+    await test_different_video_dimensions()
+  File "/home/ath/Pictures/Data-Generation-and-Testing/nGPT-pytorch/historical-poker/three_main.py", line 269, in test_different_video_dimensions
+    players = await simulator.generate_player_pool(players_per_era=2)
+                    ^^^^^^^^^
+NameError: name 'simulator' is not defined
+2024-11-29 18:59:36,354 - INFO - Starting decoding process for output/encoded_data_2_players.wav
+2024-11-29 18:59:36,355 - INFO - Loaded audio file: output/encoded_data_2_players.wav
+2024-11-29 18:59:36,372 - INFO - Extracted 184 frequency values
+2024-11-29 18:59:54,806 - INFO - Decoding completed successfully
+2024-11-29 18:59:54,826 - INFO - Starting decoding process for output/encoded_data_4_players.wav
+2024-11-29 18:59:54,829 - INFO - Loaded audio file: output/encoded_data_4_players.wav
+2024-11-29 18:59:54,855 - INFO - Extracted 188 frequency values
+2024-11-29 19:00:13,705 - INFO - Decoding completed successfully
+2024-11-29 19:00:13,755 - INFO - Starting decoding process for output/encoded_data_different_stats.wav
+2024-11-29 19:00:13,756 - INFO - Loaded audio file: output/encoded_data_different_stats.wav
+2024-11-29 19:00:13,785 - INFO - Extracted 330 frequency values
+2024-11-29 19:00:46,806 - INFO - Decoding completed successfully
+2024-11-29 19:00:46,816 - INFO - Starting decoding process for output/encoded_data_22050_sample_rate.wav
+2024-11-29 19:00:46,817 - INFO - Loaded audio file: output/encoded_data_22050_sample_rate.wav
+2024-11-29 19:00:46,827 - INFO - Extracted 93 frequency values
+2024-11-29 19:00:56,105 - INFO - Decoding completed successfully
+2024-11-29 19:00:56,122 - INFO - Starting decoding process for output/encoded_data_48000_sample_rate.wav
+2024-11-29 19:00:56,123 - INFO - Loaded audio file: output/encoded_data_48000_sample_rate.wav
+2024-11-29 19:00:56,140 - INFO - Extracted 205 frequency values
+2024-11-29 19:01:16,704 - INFO - Decoding completed successfully
+2024-11-29 19:01:16,717 - INFO - Starting decoding process for output/encoded_data_custom_fft_params.wav
+2024-11-29 19:01:16,719 - INFO - Loaded audio file: output/encoded_data_custom_fft_params.wav
+2024-11-29 19:01:16,747 - INFO - Extracted 377 frequency values
+2024-11-29 19:01:54,505 - INFO - Decoding completed successfully
+2024-11-29 19:01:54,505 - ERROR - Error in main process: name 'simulator' is not defined
+Traceback (most recent call last):
+  File "/home/ath/Pictures/Data-Generation-and-Testing/nGPT-pytorch/historical-poker/three_main.py", line 307, in main
+    await test_different_video_dimensions()
+  File "/home/ath/Pictures/Data-Generation-and-Testing/nGPT-pytorch/historical-poker/three_main.py", line 269, in test_different_video_dimensions
+    players = await simulator.generate_player_pool(players_per_era=2)
+                    ^^^^^^^^^
+NameError: name 'simulator' is not defined
+2024-11-29 19:07:04,642 - INFO - Processing batch 1/5
+2024-11-29 19:07:04,649 - ERROR - Error in main process: 'coroutine' object is not iterable
+Traceback (most recent call last):
+  File "/home/ath/Pictures/Data-Generation-and-Testing/nGPT-pytorch/historical-poker/three_main.py", line 369, in main
+    frequencies = encoder.brightness_to_frequencies(brightness_values)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ath/Pictures/Data-Generation-and-Testing/nGPT-pytorch/historical-poker/three_main.py", line 84, in brightness_to_frequencies
+    for brightness in brightness_values
+                      ^^^^^^^^^^^^^^^^^
+TypeError: 'coroutine' object is not iterable
+2024-11-29 19:07:58,254 - INFO - Processing batch 1/5
+2024-11-29 19:07:58,297 - INFO - Starting decoding process for output/encoded_data_batch_0.wav
+2024-11-29 19:07:58,299 - INFO - Loaded audio file: output/encoded_data_batch_0.wav
+2024-11-29 19:07:58,320 - INFO - Extracted 188 frequency values
+2024-11-29 19:08:17,207 - INFO - Decoding completed successfully
+2024-11-29 19:08:17,208 - INFO - Processing batch 2/5
+2024-11-29 19:08:17,228 - INFO - Starting decoding process for output/encoded_data_batch_1.wav
+2024-11-29 19:08:17,230 - INFO - Loaded audio file: output/encoded_data_batch_1.wav
+2024-11-29 19:08:17,256 - INFO - Extracted 188 frequency values
+2024-11-29 19:08:36,106 - INFO - Decoding completed successfully
+2024-11-29 19:08:36,106 - INFO - Processing batch 3/5
+2024-11-29 19:08:36,132 - INFO - Starting decoding process for output/encoded_data_batch_2.wav
+2024-11-29 19:08:36,133 - INFO - Loaded audio file: output/encoded_data_batch_2.wav
+2024-11-29 19:08:36,167 - INFO - Extracted 188 frequency values
+2024-11-29 19:08:55,005 - INFO - Decoding completed successfully
+2024-11-29 19:08:55,005 - INFO - Processing batch 4/5
+2024-11-29 19:08:55,020 - INFO - Starting decoding process for output/encoded_data_batch_3.wav
+2024-11-29 19:08:55,021 - INFO - Loaded audio file: output/encoded_data_batch_3.wav
+2024-11-29 19:08:55,043 - INFO - Extracted 188 frequency values
+2024-11-29 19:09:13,905 - INFO - Decoding completed successfully
+2024-11-29 19:09:13,905 - INFO - Processing batch 5/5
+2024-11-29 19:09:13,924 - INFO - Starting decoding process for output/encoded_data_batch_4.wav
+2024-11-29 19:09:13,925 - INFO - Loaded audio file: output/encoded_data_batch_4.wav
+2024-11-29 19:09:13,949 - INFO - Extracted 188 frequency values
+2024-11-29 19:09:32,805 - INFO - Decoding completed successfully
+2024-11-29 19:09:32,805 - INFO - Pipeline Performance Metrics:
+2024-11-29 19:09:32,805 - INFO - Batch 0: 18.95s
+2024-11-29 19:09:32,805 - INFO - Encoder metrics: {'avg_encoding_time': 0, 'avg_decoding_time': 0, 'avg_audio_processing_time': 0, 'avg_visualization_time': 0, 'success_rate': 1.0, 'total_processed': 2, 'failed_operations': {'encoding': 0, 'decoding': 0, 'audio': 0, 'visualization': 0}}
+2024-11-29 19:09:32,806 - INFO - Decoder metrics: {'avg_encoding_time': 0, 'avg_decoding_time': 0, 'avg_audio_processing_time': 0, 'avg_visualization_time': 0, 'success_rate': 0.0, 'total_processed': 0, 'failed_operations': {'encoding': 0, 'decoding': 0, 'audio': 0, 'visualization': 0}}
+2024-11-29 19:09:32,806 - INFO - Batch 1: 18.90s
+2024-11-29 19:09:32,806 - INFO - Encoder metrics: {'avg_encoding_time': 0, 'avg_decoding_time': 0, 'avg_audio_processing_time': 0, 'avg_visualization_time': 0, 'success_rate': 1.0, 'total_processed': 4, 'failed_operations': {'encoding': 0, 'decoding': 0, 'audio': 0, 'visualization': 0}}
+2024-11-29 19:09:32,806 - INFO - Decoder metrics: {'avg_encoding_time': 0, 'avg_decoding_time': 0, 'avg_audio_processing_time': 0, 'avg_visualization_time': 0, 'success_rate': 0.0, 'total_processed': 0, 'failed_operations': {'encoding': 0, 'decoding': 0, 'audio': 0, 'visualization': 0}}
+2024-11-29 19:09:32,806 - INFO - Batch 2: 18.90s
+2024-11-29 19:09:32,806 - INFO - Encoder metrics: {'avg_encoding_time': 0, 'avg_decoding_time': 0, 'avg_audio_processing_time': 0, 'avg_visualization_time': 0, 'success_rate': 1.0, 'total_processed': 6, 'failed_operations': {'encoding': 0, 'decoding': 0, 'audio': 0, 'visualization': 0}}
+2024-11-29 19:09:32,806 - INFO - Decoder metrics: {'avg_encoding_time': 0, 'avg_decoding_time': 0, 'avg_audio_processing_time': 0, 'avg_visualization_time': 0, 'success_rate': 0.0, 'total_processed': 0, 'failed_operations': {'encoding': 0, 'decoding': 0, 'audio': 0, 'visualization': 0}}
+2024-11-29 19:09:32,806 - INFO - Batch 3: 18.90s
+2024-11-29 19:09:32,806 - INFO - Encoder metrics: {'avg_encoding_time': 0, 'avg_decoding_time': 0, 'avg_audio_processing_time': 0, 'avg_visualization_time': 0, 'success_rate': 1.0, 'total_processed': 8, 'failed_operations': {'encoding': 0, 'decoding': 0, 'audio': 0, 'visualization': 0}}
+2024-11-29 19:09:32,806 - INFO - Decoder metrics: {'avg_encoding_time': 0, 'avg_decoding_time': 0, 'avg_audio_processing_time': 0, 'avg_visualization_time': 0, 'success_rate': 0.0, 'total_processed': 0, 'failed_operations': {'encoding': 0, 'decoding': 0, 'audio': 0, 'visualization': 0}}
+2024-11-29 19:09:32,806 - INFO - Batch 4: 18.90s
+2024-11-29 19:09:32,806 - INFO - Encoder metrics: {'avg_encoding_time': 0, 'avg_decoding_time': 0, 'avg_audio_processing_time': 0, 'avg_visualization_time': 0, 'success_rate': 1.0, 'total_processed': 10, 'failed_operations': {'encoding': 0, 'decoding': 0, 'audio': 0, 'visualization': 0}}
+2024-11-29 19:09:32,806 - INFO - Decoder metrics: {'avg_encoding_time': 0, 'avg_decoding_time': 0, 'avg_audio_processing_time': 0, 'avg_visualization_time': 0, 'success_rate': 0.0, 'total_processed': 0, 'failed_operations': {'encoding': 0, 'decoding': 0, 'audio': 0, 'visualization': 0}}
